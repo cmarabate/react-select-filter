@@ -1,0 +1,14 @@
+.App {
+  font-family: 'San Francisco', sans-serif;
+  color: #424242;
+}
+
+h1,
+span {
+  font-weight: 700;
+  color: #0b0b0b;
+}
+
+li {
+  margin-bottom: 5px;
+}
